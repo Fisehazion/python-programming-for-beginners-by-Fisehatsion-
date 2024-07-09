@@ -11,9 +11,10 @@ if x >= 1 and x <= 30:
         print("You are misinformed. Please check our website for any updates.")
         print("The spot is over for now. Please write your personal info below.")
         name = input("Write your name here: ")
-        phone = input("Your phone number: ")
+        phone = input(" put your phone number here, please!: ")
         print("Thank you for visiting us, " + name + "!")
     else:
         print("Not applicable")
 else:
     print("Invalid input. Please enter a day between 1 and 30.")
+print("https://fisehatsion-adisu-abute.hi.link")
