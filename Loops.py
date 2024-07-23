@@ -1,3 +1,4 @@
+#List comprehensions provide a concise way to create lists.
 sports = [ "Football", "Basketball", "Tennis", "Golf", "Volleyball"]
 group = [x for x in sports if "ball" in x]
 print(group)
